@@ -1,0 +1,59 @@
+{
+    "name": "BillingOrchard",
+    "description": "BillingOrchard by Payscape is an online billing and invoicing software designed to simplify the billing process and get you paid faster. BillingOrchard is a perfect solution for businesses of all sizes - especially individual contractors and freelancer...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10317-billingorchard.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "financial",
+        "have api",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/billingorchard\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BillingOrchard",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10317-billingorchard.jpg",
+            "humanURL": "http:\/\/www.billingorchard.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/billingorchard-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/billingorchard-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/billingorchardapi.com\/webservice\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/billingorchard"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/billingorchard.com\/developers\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/billingorchard"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.billingorchard.com\/"
+        }
+    ]
+}
